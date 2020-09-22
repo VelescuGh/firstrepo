@@ -12,7 +12,7 @@ namespace @string
         static void Main(string[] args)
         {
 
-            string myString = "Hello Batman";
+            string myString = "Hello jBatman";
             string mickey = "Hello Mickey Mouse";
             if (myString==mickey)
             {
